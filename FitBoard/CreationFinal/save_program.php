@@ -28,9 +28,9 @@ if (!validateData($data)) {
 }
 
 // Database credentials
-$dsn = 'mysql:host=sql112.infinityfree.com;dbname=if0_36607942_exercise_programs;charset=utf8';
-$username = 'if0_36607942';
-$password = 'Lf1knlji5fBcBd';
+$dsn = 'mysql:host=sql207.infinityfree.com;dbname=if0_41185474_exercise_programs;charset=utf8';
+$username = 'if0_41185474';
+$password = 'Lf1knlji5fBcBd1';
 
 try {
     // Connect to the database

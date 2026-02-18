@@ -1,9 +1,9 @@
 <?php
 header('Content-Type: application/json');
 
-$dsn = 'mysql:host=sql112.infinityfree.com;dbname=if0_36607942_fitboard_notifications;charset=utf8';
-$username = 'if0_36607942';
-$password = 'Lf1knlji5fBcBd';
+$dsn = 'mysql:host=sql207.infinityfree.com;dbname=if0_41185474_fitboard_notifications;charset=utf8';
+$username = 'if0_41185474';
+$password = 'Lf1knlji5fBcBd1';
 
 try {
     $pdo = new PDO($dsn, $username, $password);

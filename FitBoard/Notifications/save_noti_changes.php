@@ -4,9 +4,9 @@ header('Content-Type: application/json');
 // Set the default timezone to your local timezone
 date_default_timezone_set('Australia/Sydney');
 
-$dsn = 'mysql:host=sql112.infinityfree.com;dbname=if0_36607942_fitboard_notifications;charset=utf8';
-$username = 'if0_36607942';
-$password = 'Lf1knlji5fBcBd';
+$dsn = 'mysql:host=sql207.infinityfree.com;dbname=if0_41185474_fitboard_notifications;charset=utf8';
+$username = 'if0_41185474';
+$password = 'Lf1knlji5fBcBd1';
 $options = [
     PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION,
     PDO::ATTR_DEFAULT_FETCH_MODE => PDO::FETCH_ASSOC,

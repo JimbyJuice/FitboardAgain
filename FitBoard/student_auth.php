@@ -15,7 +15,7 @@ $client = new OAuth_Client_Class;
 
 // Your configuration block. Register your app on the Student Portal.
 // Don't leak your Client Secret. If you do, make sure you regenerate it through the Portal.
-$client->redirect_uri = "http://backend-fitboard.wuaze.com/student_auth.php";
+$client->redirect_uri = "http://fitboard.wuaze.com/student_auth.php";
 $client->client_id = '01hy9zy7azf95bjyn0pn226sx5';
 $client->client_secret = 'jOxgsZ4UkCLe8b9-SKwSKftjNu3mQvR6-C2lx8GTqcApOx14jJNOD_RcNpDlbyHOQUMl4MTuNP50BK4O';
 
